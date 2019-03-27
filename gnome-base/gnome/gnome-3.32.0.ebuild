@@ -19,6 +19,11 @@ RDEPEND="
 	>=gnome-base/gnome-keyring-3.31.91
 	>=gnome-base/gnome-session-${PV}
 	>=gnome-extra/evolution-data-server-${PV}
+	>=gnome-base/gnome-core-apps-3.30.2
+	>=gnome-base/gnome-extra-apps-3.30.2
+	>=gnome-base/gnome-menus-${PV}
+	>=gnome-extra/gnome-shell-extensions-${PV}
+	>=x11-themes/gnome-backgrounds-${PV}
 "
 DEPEND=""
 PDEPEND=">=gnome-base/gvfs-1.40.0"
